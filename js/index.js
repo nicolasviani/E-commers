@@ -1,5 +1,3 @@
-
-
 const products =[
     {
         id: 1,
@@ -223,7 +221,7 @@ const products =[
         name: "Zapatillas Nike",
         category: "Zapatillas de hombres",
         price: "$32999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 29,
@@ -231,7 +229,7 @@ const products =[
         name: "Zapatillas Nike Air",
         category: "Zapatillas de hombres",
         price: "$34999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 30,
@@ -239,7 +237,7 @@ const products =[
         name: "Zapatilla Nike",
         category: "Zapatillas de hombres",
         price: "$40999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 31,
@@ -247,7 +245,7 @@ const products =[
         name: "Zapatillas Air Nike",
         category: "Zapatillas de hombres",
         price: "$43999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 32,
@@ -255,7 +253,7 @@ const products =[
         name: "Zapatillas Nike paddel",
         category: "Zapatillas de hombres",
         price: "$23999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 33,
@@ -263,7 +261,7 @@ const products =[
         name: "Zapatillas Nike",
         category: "Zapatillas de hombres",
         price: "$43999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 34,
@@ -271,7 +269,7 @@ const products =[
         name: "Zapatillas Nike",
         category: "Zapatillas de hombres",
         price: "$42999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 35,
@@ -279,7 +277,7 @@ const products =[
         name: "Zapatillas Nike",
         category: "Zapatillas de hombres",
         price: "$42999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 36,
@@ -287,7 +285,7 @@ const products =[
         name: "Zapatillas Run Adidas",
         category: "Zapatillas de hombres",
         price: "$26999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 37,
@@ -295,7 +293,7 @@ const products =[
         name: "Zapatillas All Star",
         category: "Zapatillas de mujeres",
         price: "$32999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 38,
@@ -303,7 +301,7 @@ const products =[
         name: "Zapatillas Nike Air",
         category: "Zapatillas de mujeres",
         price: "$35999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 39,
@@ -311,7 +309,7 @@ const products =[
         name: "Zapatillas Puma",
         category: "Zapatillas de mujeres",
         price: "$38999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 40,
@@ -319,7 +317,7 @@ const products =[
         name: "Zapatillas Run Adidas",
         category: "Zapatillas de mujeres",
         price: "$26999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 41,
@@ -327,7 +325,7 @@ const products =[
         name: "Zapatillas EQ21 Adidas",
         category: "Zapatillas de mujeres",
         price: "$28999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 42,
@@ -335,7 +333,7 @@ const products =[
         name: "Zapatillas Trail",
         category: "Zapatillas de mujeres",
         price: "$32999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 43,
@@ -343,7 +341,7 @@ const products =[
         name: "Zapatillas Reebok",
         category: "Zapatillas de mujeres",
         price: "$36999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 44,
@@ -351,7 +349,7 @@ const products =[
         name: "Zapatillas Classic",
         category: "Zapatillas de mujeres",
         price: "$32999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 45,
@@ -359,7 +357,7 @@ const products =[
         name: "Zapatillas Legaci",
         category: "Zapatillas de mujeres",
         price: "$35999",
-        size: ["S", "M", "L", "XL"],
+        size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
     },
     {
         id: 46,
@@ -588,11 +586,13 @@ const products =[
     
 ];
 
+
+
 const containerProducts = document.querySelector("#containerProducts");
 
-const showProduct = (data) =>{
-    data.forEach(product => {
-        const cardProduct = document.createElement("article");
+const showProduct = (products) =>{
+    products.forEach(product => {
+        const cardProduct = document.createElement("section");
         cardProduct.setAttribute("id", "Product");
         cardProduct.innerHTML =`
                                 <img class="product-image" src="${product.image}" alt="${product.name}"
@@ -608,67 +608,37 @@ const showProduct = (data) =>{
     const productAdd = document.querySelectorAll(".productAdd");
     productAdd.forEach((element) =>{
         element.addEventListener("click", (event) =>{
-            addCart = (event.target.id);
+            showProduct = (event.target.id);
         });
     });
-}
+};
+
 showProduct(products);
 
+const cart = [];
+
+function addCart(id){
+    let selectedProduct = products.find(product => product.id === parseInt(id));
+    cart.push(selectedProduct);
+    console.log(addCart);
+}
+
+
+// const addCart = (id) =>{
+//     let selectedProduct = products.find(product => product.id === parseInt(id));
+//     cart.push(selectedProduct);
+//     console.log(addCart);
+// };
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// const botonMenu = document.querySelector("#botonMenu");
-// const contenedorProductos = document.querySelector(".contenedor-productos");
-
-// let div = document.createElement('div');
-// div.classList.add("productos");
-// contenedorProductos.appendChild(div);
-
-// let img = document.createElement("img");
-// img.classList.add("producto-imagen");
-// img.setAttribute("src", "./assets/images/buzos-camperas-hombres-html/buzo-nike.png");
-// contenedorProductos.appendChild(img);
-
-// div = document.createElement("div");
-// div.classList.add("producto-detalle");
-// contenedorProductos.appendChild(div);
-
-
-// let h3 = document.createElement("h3");
-// h3.classList.add("producto-titulo");
-// contenedorProductos.innerHTML = `<h3 class="producto-titulo">Buzo Nike</h3>`;
-
-// let p = document.createElement("p");
-// p.classList.add("producto-precio");
-// contenedorProductos.innerHTML = `<p class="producto-precio">$24999</p>`;
-
-// console.log(contenedorProductos);
-
+//     <div id="product" class="product"> 
+//     <img class="product-image" src="./assets/images/buzos-camperas-hombres-html/buzo-nike.png" alt="">
+//     <div class="product-detail">
+//         <h3 class="product-title">Buzo Nike</h3>
+//         <p class="product-price">$25999</p>
+//         <button class="productAdd">Agregar</button>
+//     </div>
+// </div>
