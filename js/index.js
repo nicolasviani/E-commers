@@ -39,6 +39,7 @@ const products =[
         category: "Remeras de hombres",
         price: "$16999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 6,
@@ -47,6 +48,7 @@ const products =[
         category: "Remeras de hombres",
         price: "$20999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 7,
@@ -55,6 +57,7 @@ const products =[
         category: "Buzos/camperas de hombres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 8,
@@ -63,6 +66,7 @@ const products =[
         category: "Remeras de hombres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 9,
@@ -71,6 +75,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$27999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 10,
@@ -79,6 +84,7 @@ const products =[
         category: "Remeras de hombres",
         price: "27999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 11,
@@ -87,6 +93,7 @@ const products =[
         category: "Remeras de hombres",
         price: "$32999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 12,
@@ -95,6 +102,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 13,
@@ -103,6 +111,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$25999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 14,
@@ -111,6 +120,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$24999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 15,
@@ -119,6 +129,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$25999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 16,
@@ -127,6 +138,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$28999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 17,
@@ -135,6 +147,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$23999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 18,
@@ -143,6 +156,7 @@ const products =[
         category: "Buzo/camperas de hombres",
         price: "$28999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 19,
@@ -151,6 +165,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$12999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 20,
@@ -159,6 +174,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$27999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 21,
@@ -167,6 +183,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$22999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 22,
@@ -175,6 +192,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$13999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 23,
@@ -183,6 +201,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$56999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 24,
@@ -191,6 +210,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$52999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 25,
@@ -199,6 +219,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$45999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 26,
@@ -207,6 +228,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$23999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 27,
@@ -215,6 +237,7 @@ const products =[
         category: "Pantalones de hombres",
         price: "$24999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 28,
@@ -223,6 +246,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$32999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 29,
@@ -231,6 +255,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$34999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 30,
@@ -239,6 +264,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$40999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 31,
@@ -247,6 +273,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$43999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 32,
@@ -255,6 +282,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$23999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 33,
@@ -263,6 +291,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$43999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 34,
@@ -271,6 +300,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$42999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 35,
@@ -279,6 +309,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$42999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 36,
@@ -287,6 +318,7 @@ const products =[
         category: "Zapatillas de hombres",
         price: "$26999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 37,
@@ -295,6 +327,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$32999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 38,
@@ -303,6 +336,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$35999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 39,
@@ -311,6 +345,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$38999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 40,
@@ -319,6 +354,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$26999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 41,
@@ -327,6 +363,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$28999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 42,
@@ -335,6 +372,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$32999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 43,
@@ -343,6 +381,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$36999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 44,
@@ -351,6 +390,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$32999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 45,
@@ -359,6 +399,7 @@ const products =[
         category: "Zapatillas de mujeres",
         price: "$35999",
         size: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+        quantiy: 1,
     },
     {
         id: 46,
@@ -367,6 +408,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$16999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 47,
@@ -375,6 +417,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$27999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 48,
@@ -383,6 +426,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$25999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 49,
@@ -391,6 +435,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$46999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 50,
@@ -399,6 +444,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$35999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 51,
@@ -407,6 +453,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 52,
@@ -415,6 +462,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$13999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 53,
@@ -423,6 +471,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$13999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 54,
@@ -431,6 +480,7 @@ const products =[
         category: "Pantalones de mujeres",
         price: "$16999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 55,
@@ -439,6 +489,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$23999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 56,
@@ -447,6 +498,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$23999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 57,
@@ -455,6 +507,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$28999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 58,
@@ -463,6 +516,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$28999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 59,
@@ -471,6 +525,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 60,
@@ -479,6 +534,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 61,
@@ -487,6 +543,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 62,
@@ -495,6 +552,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$26999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 63,
@@ -503,6 +561,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$27999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 64,
@@ -511,6 +570,7 @@ const products =[
         category: "Buzos/camperas de mujeres",
         price: "$28999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 65,
@@ -519,6 +579,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$7999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 66,
@@ -527,6 +588,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$11999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 67,
@@ -535,6 +597,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$14999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 68,
@@ -543,6 +606,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$14999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 69,
@@ -551,6 +615,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$13999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 70,
@@ -559,6 +624,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$14999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 71,
@@ -567,6 +633,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$17999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 72,
@@ -575,6 +642,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$9999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     {
         id: 73,
@@ -583,6 +651,7 @@ const products =[
         category: "Remeras de mujeres",
         price: "$17999",
         size: ["S", "M", "L", "XL"],
+        quantiy: 1,
     },
     
 ];
