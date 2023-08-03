@@ -172,7 +172,7 @@ main{
 
 }
 
-.productAdd{
+.add{
     border: 0;
     background-color: var(--clr-white);
     color: var(--clr-main);
@@ -184,7 +184,7 @@ main{
     transition: background-color .2s color .2s;
 }
 
-.productAdd:hover{
+.add:hover{
     background-color: var(--clr-main);
     color: var(--clr-white);
 }

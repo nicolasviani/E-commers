@@ -6,6 +6,7 @@ const products =[
         category: "Remeras de hombres",
         price: "$17999",
         size: ["S", "M", "L", "XL"],
+        quantity: 1,
     },
     {
         id: 2,
@@ -598,12 +599,11 @@ const showProduct = (products) =>{
         const cardProduct = document.createElement("section");
         cardProduct.setAttribute("id", "Product");
         cardProduct.innerHTML =`
-                                <img class="product-image" src="${product.image}" alt="${product.name}"
+                                <img class="product-image" src="${product.image}" alt="${product.name}">
                                 <div class="product-detail">
                                 <h3 class="product-title"> ${product.name}</h3>
                                 <p class="product-price">${product.price}</p>
-                                <button id="${product.id}" class"add">Agregar</button>
-                                </div>
+                                <button id="${product.id}" class="add">Agregar</button>
                                 </div>
                             `
         containerProducts.appendChild(cardProduct);
@@ -611,7 +611,7 @@ const showProduct = (products) =>{
     const addProduct = document.querySelectorAll(".add");
     addProduct.forEach((element) =>{
         element.addEventListener("click", (event) =>{
-            addCart = (event.target.id);
+            addCart(event.target.id);
         });
     });
 };
@@ -622,10 +622,15 @@ const cart = [];
 
 
 addCart = (id) =>{
-    // let selectedProduct = products.find(product => product.id === parseInt(id));
-    console.log(selectedProduct);
-    // cart.push(selectedProduct);
-    // console.log(addCart);
+    const exists = cart.some(product => product.id === parseInt(id)); 
+    
+    if (exists){
+        cart.map(product => product.quantity++);
+    }else{
+        let selectedProduct = products.find(product => product.id === parseInt(id));
+        cart.push(selectedProduct);
+    }
+    console.log(cart);
 };
 
 
