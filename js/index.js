@@ -589,6 +589,9 @@ const products =[
 
 
 const containerProducts = document.querySelector("#containerProducts");
+console.log(products);
+
+
 
 const showProduct = (products) =>{
     products.forEach(product => {
@@ -599,36 +602,31 @@ const showProduct = (products) =>{
                                 <div class="product-detail">
                                 <h3 class="product-title"> ${product.name}</h3>
                                 <p class="product-price">${product.price}</p>
-                                <button id="${product.id}" class"productAdd">Agregar</button>
+                                <button id="${product.id}" class"add">Agregar</button>
                                 </div>
                                 </div>
                             `
         containerProducts.appendChild(cardProduct);
     });
-    const productAdd = document.querySelectorAll(".productAdd");
-    productAdd.forEach((element) =>{
+    const addProduct = document.querySelectorAll(".add");
+    addProduct.forEach((element) =>{
         element.addEventListener("click", (event) =>{
-            showProduct = (event.target.id);
+            addCart = (event.target.id);
         });
     });
 };
-
 showProduct(products);
+
 
 const cart = [];
 
-function addCart(id){
-    let selectedProduct = products.find(product => product.id === parseInt(id));
-    cart.push(selectedProduct);
-    console.log(addCart);
-}
 
-
-// const addCart = (id) =>{
-//     let selectedProduct = products.find(product => product.id === parseInt(id));
-//     cart.push(selectedProduct);
-//     console.log(addCart);
-// };
+addCart = (id) =>{
+    // let selectedProduct = products.find(product => product.id === parseInt(id));
+    console.log(selectedProduct);
+    // cart.push(selectedProduct);
+    // console.log(addCart);
+};
 
 
 
